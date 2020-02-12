@@ -1,0 +1,15 @@
+body, a, p, h1, h2, h3, h4, h5, h6, ul, li, ol, td, span, input, textarea, select, .button { font-family: 'Titillium Web', sans-serif; font-weight:400; color:#444; font-size: 16px; line-height: 20px; }
+
+@media screen and (min-width: 64em) {
+
+}
+
+/* Medium and up */
+@media screen and (min-width: 40em) and (max-width: 63.9375em) {
+
+}
+
+/* Small only */
+@media screen and (max-width: 39.9375em) {
+
+}
